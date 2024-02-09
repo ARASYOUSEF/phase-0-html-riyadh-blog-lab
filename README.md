@@ -10,7 +10,7 @@ Web developers are often asked to work from a mockup of a potential webpage,
 generally referred to as either a `mockup` or `comp`. In this lab, you'll be
 asked to use a mockup image, source text and images, and create an HTML
 structure that mirrors the mockup image.
-
+ 
 ## Getting Started
 
 **Fork and clone** this lesson into your local environment. Navigate into its
